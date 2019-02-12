@@ -1,4 +1,4 @@
-# ✨ NG Number Finder
+# 🚀 NG Number Finder
 A Node module to check what network provider a particular Nigerian Phone number is.
 
 
