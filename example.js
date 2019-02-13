@@ -1,3 +1,3 @@
 const number = require('./index.js');
 
-console.log(number('08131361241'));
+console.log(number('0813888888'));

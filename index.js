@@ -82,7 +82,7 @@ module.exports = (number)=>{
         }
         
       }else{
-        var message = "Something is wrong with the number";
+        var message = "The number is not upto 11 digits";
         return message;
       }
 };
