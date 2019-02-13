@@ -57,6 +57,7 @@ module.exports = (number)=>{
         }else if(number.includes("0707")){
     
             var network = "Zoom";
+            return network;
     
         }else if(number.includes("0804")){
     
@@ -76,11 +77,12 @@ module.exports = (number)=>{
     
             var message = "Something is not right";
 
-            return network;
+            return message;
             
         }
         
       }else{
         var message = "Something is wrong with the number";
+        return message;
       }
 };
