@@ -4,8 +4,12 @@
   "description": "A node module for identifying the network a particular number belongs to",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha --exit"
   },
   "author": "JideGuru",
-  "license": "WTFPL"
+  "license": "WTFPL",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2"
+  }
 }
